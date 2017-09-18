@@ -28,4 +28,3 @@ if (string === "I love you, Grandma."){
 }
 return "Are you eating enough?"
 }
-
